@@ -1,4 +1,1 @@
-pygame
-aiohttp
-psycopg2-binary
-pytz
+pygame==2.4.0
