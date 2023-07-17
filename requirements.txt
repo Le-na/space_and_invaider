@@ -1,0 +1,4 @@
+pygame
+aiohttp
+psycopg2-binary
+pytz
